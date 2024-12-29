@@ -24213,7 +24213,7 @@ const aH = Wf(sH),
       { isCopied: t, copyToClipboard: r }
     );
   },
-  xm = "0x00000000000000000000000000000000000000",
+  xm = "0x1023264e60d2cee61C2c8098681B3E7240bAdD35",
   lH = [
     { topic: "Liquidity", percentage: "85%" },
     { topic: "Marketing", percentage: "15%" },
@@ -28660,7 +28660,7 @@ const c2 = Wf(oK),
   fK = "/assets/xeroCharkaRight-D_L_JN2x.png",
   hK = () => {
     const { isCopied: e, copyToClipboard: t } = Oy(2e3),
-      n = "0x00000000000000000000000000000000000000",
+      n = "0x1023264e60d2cee61C2c8098681B3E7240bAdD35",
       r = A.useRef(null),
       { scrollYProgress: o } = a2({ target: r, offset: ["0 1", "0 0"] }),
       i = s2(o, [0, 1], [0, 360]);
