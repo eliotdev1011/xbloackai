@@ -23302,7 +23302,7 @@ const Gz = "/assets/car-CA4oapyu.mp4",
   Jz = "/assets/alien-DLcBOk3z.mp4",
   eW = "/assets/jacketBoy-CySD2s_T.mp4",
   tW = "/assets/angel-e494J6vB.mp4",
-  et = { whitePapeer: "http://docs.xblockai.cc/", telegram: "https://t.me/XBlock_AI", telegramBot: "https://t.me/XBlock_AI", twitter: "https://x.com/XBlock_AI", chart: "https://www.dextools.io/app/en/ether/pair-explorer/0x", meddium: "https://medium.com/", uniswap: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000" },
+  et = { whitePapeer: "http://docs.xblockai.cc/", telegram: "https://t.me/XBlock_AI", telegramBot: "https://t.me/XBlock_AI", twitter: "https://x.com/XBlock_AI", chart: "https://www.dextools.io/app/en/ether/pair-explorer/0x", meddium: "https://medium.com/", uniswap: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1023264e60d2cee61C2c8098681B3E7240bAdD35" },
   nW = [Jz, Gz, Qz, Xz, Kz, Yz, Zz, eW, tW, qz];
 function rW() {
   return y.jsx("section", { className: "max-w-[100rem] w-full mx-auto py-20", children: y.jsxs("div", { className: "max-w-[100rem] mx-auto xl:px-0", children: [y.jsxs("h2", { "data-aos": "fade-up", className: "text-white text-center font-ClashGrotesk-Semibold text-[3rem] sm:text-[4rem] lg:text-[5rem] lg:leading-[5.5rem] tracking-[0.1rem]", children: ["Our ", y.jsx("span", { className: "gradientHeading", children: "2.0 Magic" })] })] }) });
